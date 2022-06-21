@@ -1,0 +1,30 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #a2d9ff;
+}
+
+.jumbotron img {
+  width: 250px;
+  height: 230px;
+}
+#Projects {
+  background-color: #a2d9ff;
+}
+
+#Projects h2 {
+  padding-top: 60px;
+  color: black (240, 240, 245);
+}
+
+#Projects img {
+  height: 400px;
+}
+
+section {
+  min-height: 100%;
+}
+
+.jumbotron > h1 {
+  text-align: center;
+  text-shadow: #a2d9ff;
+}
