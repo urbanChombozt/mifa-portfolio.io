@@ -28,3 +28,11 @@ section {
   text-align: center;
   text-shadow: #a2d9ff;
 }
+
+.gallery-img {
+  width: 100%;
+}
+
+#gallery .row > * {
+  padding: 0;
+}
